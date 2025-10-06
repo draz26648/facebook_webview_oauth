@@ -1,10 +1,10 @@
 name: facebook_webview_oauth
 description: A Flutter package for Facebook OAuth authentication using WebView. Bypasses Limited Login restrictions and provides full Business permissions access.
 version: 1.0.0
-homepage: https://github.com/yourusername/facebook_webview_oauth
-repository: https://github.com/yourusername/facebook_webview_oauth
-issue_tracker: https://github.com/yourusername/facebook_webview_oauth/issues
-documentation: https://github.com/yourusername/facebook_webview_oauth#readme
+homepage: https://github.com/draz26648/facebook_webview_oauth
+repository: https://github.com/draz26648/facebook_webview_oauth
+issue_tracker: https://github.com/draz26648/facebook_webview_oauth/issues
+documentation: https://github.com/draz26648/facebook_webview_oauth#readme
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

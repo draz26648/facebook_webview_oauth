@@ -314,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📧 Email: support@yourcompany.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/facebook_webview_oauth/issues)
-- 📖 Documentation: [GitHub Wiki](https://github.com/yourusername/facebook_webview_oauth/wiki)
+- 📧 Email: mohamed.draz1198@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/draz26648/facebook_webview_oauth/issues)
+- 📖 Documentation: [GitHub Wiki](https://github.com/draz26648/facebook_webview_oauth/wiki)
 
 ## Changelog
 
