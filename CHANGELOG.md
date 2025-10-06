@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2024-01-XX
+## [1.0.0] - 2024-10-06
 
 ### Added
 
@@ -27,10 +27,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Authentication Flow**
 
   - WebView-based OAuth 2.0 implementation
-  - Support for custom redirect URIs
+  - Support for custom redirect URIs (configurable domain)
   - Automatic token extraction from URL fragments
   - Multiple fallback methods for token detection
   - Fresh session support (clear cookies/cache)
+  - Dynamic host validation for custom redirect domains
 
 - **Graph API Integration**
 

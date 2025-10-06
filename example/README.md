@@ -1,16 +1,32 @@
-# facebook_oauth_example
+# Facebook WebView OAuth Example
 
-A new Flutter project.
+This example demonstrates how to use the `facebook_webview_oauth` package for Facebook authentication in Flutter applications.
 
-## Getting Started
+## Features Demonstrated
 
-This project is a starting point for a Flutter application.
+- Facebook OAuth authentication using WebView
+- Custom redirect URI configuration
+- Business permissions setup
+- Graph API integration (user data and ad accounts)
+- Error handling and user feedback
+- Permission management (granted/declined scopes)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Replace `YOUR_FACEBOOK_APP_ID` in `main.dart` with your actual Facebook App ID
+2. Configure your Facebook App with the appropriate OAuth redirect URIs
+3. Run the example: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Configuration
+
+The example shows how to:
+
+- Use predefined configurations (`FacebookWebAuthConfigs.business`)
+- Configure custom redirect URIs
+- Handle authentication results
+- Make Graph API calls
+- Display user information and ad accounts
+
+## Repository
+
+For more information, visit the [main repository](https://github.com/draz26648/facebook_webview_oauth).
